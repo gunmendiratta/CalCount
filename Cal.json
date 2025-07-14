@@ -1,0 +1,507 @@
+{
+  "apple_pie": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "baby_back_ribs": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "baklava": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "beef_carpaccio": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "beef_tartare": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "beet_salad": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "beignets": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "bibimbap": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "bread_pudding": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "breakfast_burrito": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "bruschetta": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "caesar_salad": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "cannoli": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "caprese_salad": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "carrot_cake": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "ceviche": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "cheesecake": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "cheese_plate": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "chicken_curry": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "chicken_quesadilla": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "chicken_wings": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "chocolate_cake": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "chocolate_mousse": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "churros": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "clam_chowder": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "club_sandwich": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "crab_cakes": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "creme_brulee": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "croque_madame": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "cup_cakes": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "deviled_eggs": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "donuts": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "dumplings": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "edamame": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "eggs_benedict": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "escargots": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "falafel": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "filet_mignon": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "fish_and_chips": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "foie_gras": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "french_fries": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "french_onion_soup": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "french_toast": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "fried_calamari": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "fried_rice": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "frozen_yogurt": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "garlic_bread": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "gnocchi": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "greek_salad": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "grilled_cheese_sandwich": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "grilled_salmon": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "guacamole": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "gyoza": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "hamburger": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "hot_and_sour_soup": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "hot_dog": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "huevos_rancheros": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "hummus": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "ice_cream": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "lasagna": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "lobster_bisque": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "lobster_roll_sandwich": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "macaroni_and_cheese": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "macarons": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "miso_soup": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "mussels": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "nachos": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "omelette": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "onion_rings": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "oysters": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "pad_thai": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "paella": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "pancakes": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "panna_cotta": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "peking_duck": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "pho": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "pizza": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "pork_chop": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "poutine": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "prime_rib": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "pulled_pork_sandwich": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "ramen": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "ravioli": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "red_velvet_cake": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "risotto": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "samosa": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "sashimi": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "scallops": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "seaweed_salad": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "shrimp_and_grits": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "spaghetti_bolognese": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "spaghetti_carbonara": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "spring_rolls": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "steak": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "strawberry_shortcake": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "sushi": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "tacos": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "takoyaki": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "tiramisu": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "tuna_tartare": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  },
+  "waffles": {
+    "calories_per_100g": 0,
+    "serving_size_g": 0,
+    "calories_per_serving": 0
+  }
+}
