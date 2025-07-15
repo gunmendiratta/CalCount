@@ -1,7 +1,7 @@
-streamlit==1.36.0
-tensorflow==2.16.1
-numpy==1.26.4
-pandas==2.2.2
+streamlit
+tensorflow
+numpy
+pandas
 scikit-learn
 matplotlib
 json5
