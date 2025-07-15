@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "CalCount"
+version = "0.1.0"
+description = "A Streamlit app for calorie counting with a TensorFlow model."
+authors = ["Your Name <your.email@example.com>"] # Replace with your name and email
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"  # Recommended for TensorFlow 2.16.x (Python 3.10 or 3.11)
+streamlit = "^1.36.0"   # Or the specific version you use
+tensorflow = "^2.16.1"  # Or the specific version you use
+numpy = "^1.26.4"       # Common dependency for ML
+pandas = "^2.2.2"       # Common dependency for data handling
+h5py = "^3.11.0"        # Often needed by TensorFlow for .keras models
+Pillow = "^10.4.0"      # If you handle images in your Streamlit app
+
+[tool.poetry.dev-dependencies]
+# Add any development-only dependencies here, e.g.,
+# black = "^24.4.2" # For code formatting
+# pytest = "^8.2.2" # For testing
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
