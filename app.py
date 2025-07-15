@@ -6,7 +6,19 @@ import pandas as pd
 import json
 import os
 
-MODEL_PATH = 'Food_model.keras' # Make sure this matches your saved model filename
+# Ensure gdown is installed
+try:
+    import gdown
+except ImportError:
+    os.system('pip install gdown')
+    import gdown
+
+model_path = "Food_model.keras"
+if not os.path.exists(model_path):
+    file_id = "1sRanYcwpDe0mD2uqv4tYjO7L4Gfhyd7K"
+    url = f"https://drive.google.com/file/d/1sRanYcwpDe0mD2uqv4tYjO7L4Gfhyd7K/view?usp=share_link"
+    gdown.download(url, model_path, quiet=False)
+ # Make sure this matches your saved model filename
 CLASSES_TXT_PATH = 'classes.txt'
 CALORIE_DB_PATH = os.path.join('Cal.json') # Or 'Cal.json' if you renamed it
 
@@ -20,9 +32,9 @@ def load_all_resources():
 
     # Load Model
     try:
-        model = tf.keras.models.load_model(MODEL_PATH)
+        model = tf.keras.models.load_model(model_path)
     except Exception as e:
-        st.error(f"Error loading model from {MODEL_PATH}: {e}")
+        st.error(f"Error loading model from {model_path}: {e}")
 
     # Load Class Names
     try:
