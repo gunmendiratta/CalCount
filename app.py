@@ -7,7 +7,7 @@ import json
 import os
 
 MODEL_PATH = os.path.join('Food_model.keras') # Make sure this matches your saved model filename
-CLASSES_TXT_PATH = os.path.join('Desktop','CalCount_backup','food-101', 'meta', 'classes.txt')
+CLASSES_TXT_PATH = os.path.join('User','varun','Desktop','CalCount_backup','food-101', 'meta', 'classes.txt')
 CALORIE_DB_PATH = os.path.join('Cal.json') # Or 'Cal.json' if you renamed it
 
 # --- 1. Load Model, Class Names, and Calorie Data (Cached for performance) ---
