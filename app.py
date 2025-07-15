@@ -6,7 +6,7 @@ import pandas as pd
 import json
 import os
 
-MODEL_PATH = os.path.join('Desktop','ML code','CalCount','Food_model.keras') # Make sure this matches your saved model filename
+MODEL_PATH = os.path.join('Food_model.keras') # Make sure this matches your saved model filename
 CLASSES_TXT_PATH = os.path.join('Desktop','CalCount_backup','food-101', 'meta', 'classes.txt')
 CALORIE_DB_PATH = os.path.join('Cal.json') # Or 'Cal.json' if you renamed it
 
@@ -20,7 +20,7 @@ def load_all_resources():
 
     # Load Model
     try:
-        model = tf.keras.models.load_model(MODEL_PATH)
+        model = tf.keras.models.load_model('Food_model.keras')
     except Exception as e:
         st.error(f"Error loading model from {MODEL_PATH}: {e}")
 
