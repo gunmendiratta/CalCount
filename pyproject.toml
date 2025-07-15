@@ -2,8 +2,8 @@
 name = "CalCount"
 version = "0.1.0"
 description = "A Streamlit app for calorie counting with a TensorFlow model."
-authors = ["Your Name <your.email@example.com>"] # Replace with your name and email
-
+authors = ["Your Name gunmendiratta11@gmail.com"]
+package-mode = false # <--- Add this line here!
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"  # Recommended for TensorFlow 2.16.x (Python 3.10 or 3.11)
 streamlit = "^1.36.0"   # Or the specific version you use
