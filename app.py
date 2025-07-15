@@ -17,7 +17,7 @@ model_path = "Food_model.keras"
 if not os.path.exists(model_path):
     file_id = "1sRanYcwpDe0mD2uqv4tYjO7L4Gfhyd7K"
     url = f"https://drive.google.com/file/d/1sRanYcwpDe0mD2uqv4tYjO7L4Gfhyd7K/view?usp=share_link"
-    gdown.download(url, model_path, quiet=False)
+    model_path=gdown.download(url, model_path, quiet=False)
  # Make sure this matches your saved model filename
 CLASSES_TXT_PATH = 'classes.txt'
 CALORIE_DB_PATH = os.path.join('Cal.json') # Or 'Cal.json' if you renamed it
