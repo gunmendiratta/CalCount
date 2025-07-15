@@ -12,6 +12,7 @@ numpy = "^1.26.4"       # Common dependency for ML
 pandas = "^2.2.2"       # Common dependency for data handling
 h5py = "^3.11.0"        # Often needed by TensorFlow for .keras models
 Pillow = "^10.4.0"      # If you handle images in your Streamlit app
+gdown = "^5.2.0"
 
 [tool.poetry.dev-dependencies]
 # Add any development-only dependencies here, e.g.,
