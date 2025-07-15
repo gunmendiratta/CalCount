@@ -20,7 +20,7 @@ def load_all_resources():
 
     # Load Model
     try:
-        model = tf.keras.models.load_model('Food_model.keras')
+        model = tf.keras.models.load_model(MODEL_PATH)
     except Exception as e:
         st.error(f"Error loading model from {MODEL_PATH}: {e}")
 
